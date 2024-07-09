@@ -1,0 +1,108 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.s-input-green-label {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(133, 211, 148, 0.57);
+  height: 30px;
+  line-height: 30px;
+  padding: 10px 18px;
+  color: #00821c;
+  font-size: 20px;
+  outline: 0 solid transparent;
+  border: 0 solid transparent;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+}
+
+.s-input-green {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(166, 255, 184, 0.57);
+  height: 50px;
+  line-height: 20px;
+  padding: 10px 10px;
+  color: #00821c;
+  font-size: 30px;
+  outline: 0 solid transparent;
+  border: 0 solid transparent;
+  width: 200px;
+  border-radius: 0 0 20px 20px;
+}
+
+.s-input-yellow-label {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(210, 211, 133, 0.57);
+  height: 30px;
+  line-height: 30px;
+  padding: 10px 18px;
+  color: #827c00;
+  font-size: 20px;
+  outline: 0 solid transparent;
+  border: 0 solid transparent;
+  width: 200px;
+  border-radius: 20px 20px 0 0;
+}
+
+.s-input-yellow {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(255, 248, 166, 0.57);
+  height: 50px;
+  line-height: 20px;
+  padding: 10px 10px;
+  color: #827500;
+  font-size: 30px;
+  outline: 0 solid transparent;
+  border: 0 solid transparent;
+  width: 200px;
+  border-radius: 0 0 20px 20px;
+}
+
+.s-time-green {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(166, 255, 176, 0.223);
+  padding: 30px 10px;
+  color: #008218;
+  font-size: 50px;
+  border: 1px solid #00d13b;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.s-time-yellow {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(255, 248, 166, 0.223);
+  padding: 30px 10px;
+  color: #827500;
+  font-size: 50px;
+  border: 1px solid #d1c600;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.s-time-red {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgba(255, 166, 166, 0.223);
+  padding: 30px 10px;
+  color: #820000;
+  font-size: 50px;
+  border: 1px solid #d10000;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.-status {
+  letter-spacing: -0.4px;
+  line-height: 40px;
+  text-align: center;
+  padding: 10px 18px;
+  width: 200px;
+}
+
+.-time {
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  text-align: center;
+  padding: 10px 18px;
+  width: 200px;
+}
